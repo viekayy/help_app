@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "email": "help@v.org",
+    "password": "12345678",
+    "name": "Women Safety Foundation",
+    "phone": "+1234567890",
+    "role": "ngo",
+    "location": "New York, NY",
+    "description": "Supporting women affected by domestic violence since 2010",
+    "verified": true
+  },
+  {
+    "id": "2",
+    "email": "donor@v.com",
+    "password": "12345678",
+    "name": "Ramesh Kumar",
+    "phone": "+1234567891",
+    "role": "donor",
+    "location": "California, CA"
+  },
+  {
+    "id": "3",
+    "email": "victim@v.com",
+    "password": "12345678",
+    "name": "Sarah Wilson",
+    "phone": "+1234567892",
+    "role": "victim",
+    "location": "Texas, TX"
+  },
+  {
+    "id": "4",
+    "email": "doctor@v.com",
+    "password": "12345678",
+    "name": "Dr. Emily Johnson",
+    "phone": "+1234567893",
+    "role": "consultant",
+    "specialization": "medical",
+    "description": "Trauma counselor and medical professional",
+    "verified": true
+  },
+  {
+    "id": "5",
+    "email": "lawyer@v.com",
+    "password": "12345678",
+    "name": "Robert Legal",
+    "phone": "+1234567894",
+    "role": "consultant",
+    "specialization": "legal",
+    "description": "Family law attorney specializing in domestic violence cases",
+    "verified": true
+  }
+]
